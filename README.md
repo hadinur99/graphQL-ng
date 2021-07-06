@@ -1,1 +1,1 @@
-# todoList-ng
+# Latihan graphql-ng
